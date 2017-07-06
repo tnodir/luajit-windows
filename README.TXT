@@ -1,5 +1,7 @@
 
-LuaJIT Windows Additions.
+LuaJIT Windows Additions:
+	- lua5.1.dll (proxy for lua51.dll)
+	- wluajit.exe (without console)
 
 LuaJIT: http://luajit.org
 
